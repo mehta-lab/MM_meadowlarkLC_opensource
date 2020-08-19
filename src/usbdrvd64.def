@@ -1,0 +1,14 @@
+EXPORTS
+
+USBDRVD_GetDevCount
+USBDRVD_OpenDevice
+USBDRVD_CloseDevice
+USBDRVD_GetPipeCount
+USBDRVD_BulkRead
+USBDRVD_BulkWrite
+USBDRVD_PipeOpen
+USBDRVD_PipeClose
+USBDRVD_InterruptRead
+USBDRVD_InterruptWrite
+USBDRVD_IsoRead
+USBDRVD_IsoWrite
